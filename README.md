@@ -1,10 +1,10 @@
-# Hi there, I'm Bev 👋
+# Hi there, I'm Bev 
 
 <p align="center">
   <img src="https://media.discordapp.net/attachments/917295005268320337/1095424118813380688/github_header.png?width=2200&height=440" alt="Header Image" />
 </p>
 
-I'm a software engineering student with experience in machine learning, object/text recognition, and face cloning! I love working on all things computer vision, and I'm always looking for new challenges and opportunities to learn. While you're here, you might as well look around a little. Go take peak at my [Featured Projects](#featured-projects)
+I'm a software engineering student with experience in machine learning, object/text recognition, and face cloning! I love working on all things computer vision, and I'm always looking for new challenges and opportunities to learn. While you're here, you might as well look around a little. Go take peak at my [Featured Projects](#featured-projects)!
 
 ## Technologies & Tools
 
@@ -24,16 +24,15 @@ I'm a software engineering student with experience in machine learning, object/t
 
 ## Featured Projects
 
-1. **[Project 1 Title](Project 1 URL)** - Short description of Project 1.
-2. **[Project 2 Title](Project 2 URL)** - Short description of Project 2.
-3. **[Project 3 Title](Project 3 URL)** - Short description of Project 3.
-
+1. **[Apex Rotation Advice](https://github.com/happihound/apex-rotation-advice)** - My most complete and clean project yet. It uses an innovative algorithm to compute a fast path between nodes.
+2. **[CVsudokuSolver](https://github.com/happihound/CVsudokuSolver)** - Fun weekend project that reads a sudoku puzzle from the user's webcam and uses ocr to solve the given puzzle. 
+3. **[BreakingTurtleGraphics](https://github.com/happihound/breakingTurtleGraphics)** - A python script that takes in any given image and turns it into a format that turtle graphics can draw.
 <!-- Add more featured projects as needed -->
 
 ## How to reach me
 
-- [discord] happihound#4771
 - [Twitter](https://twitter.com/happihound)
+- Discord: happihound#4771
 
 From [happihound](https://github.com/happihound)
 
