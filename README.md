@@ -36,4 +36,4 @@ I'm a software engineering student with experience in machine learning, object/t
 
 From [happihound](https://github.com/happihound)
 
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife)
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=happihound)
