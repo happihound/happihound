@@ -36,4 +36,4 @@ I'm a software engineering student with experience in machine learning, object/t
 
 From [happihound](https://github.com/happihound)
 
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=happihound)
+![Visitor count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhappihound&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)
