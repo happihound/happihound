@@ -32,7 +32,7 @@ I'm a software engineering student with experience in machine learning, object/t
 ## How to reach me
 
 - [Twitter](https://twitter.com/happihound)
-- Discord: happihound#4771
+- Discord: happihound
 
 From [happihound](https://github.com/happihound)
 
