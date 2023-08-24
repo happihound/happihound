@@ -18,10 +18,6 @@ I'm a software engineering student with experience in machine learning, object/t
 
 <!-- Add more technologies and tools badges as needed -->
 
-## GitHub Stats
-
-![Username's GitHub stats](https://github-readme-stats.vercel.app/api?username=happihound&show_icons=true&theme=transparent)
-
 ## Featured Projects
 
 1. **[Apex Rotation Advice](https://github.com/happihound/apex-rotation-advice)** - My most complete and clean project yet. It uses an innovative algorithm to compute a fast path between nodes.
