@@ -4,7 +4,7 @@
   <img src="https://github.com/happihound/happihound/blob/main/banner.jpg" alt="Header Image" />
 </p>
 
-I'm a software engineering student and an retired esports coach with experience in machine learning, object/text recognition, and web development! I love working on tools for Apex Legends, and I'm always looking for new ideas. While you're here, you might as well look around a little. Go take peak at my [Featured Projects](#featured-projects)!
+I'm a software engineering student and a retired esports coach with experience in machine learning, object/text recognition, and web development! I love working on tools for Apex Legends, and I'm always looking for new ideas. While you're here, you might as well look around a little. Go take peak at my [Featured Projects](#featured-projects)!
 
 ## Technologies & Tools
 
