@@ -4,7 +4,7 @@
   <img src="https://github.com/happihound/happihound/blob/main/banner.jpg" alt="Header Image" />
 </p>
 
-I'm a software engineering student with experience in machine learning, object/text recognition, and face cloning! I love working on all things computer vision, and I'm always looking for new challenges and opportunities to learn. While you're here, you might as well look around a little. Go take peak at my [Featured Projects](#featured-projects)!
+I'm a software engineering student and an retired esports coach with experience in machine learning, object/text recognition, and web development! I love working on tools for Apex Legends, and I'm always looking for new ideas. While you're here, you might as well look around a little. Go take peak at my [Featured Projects](#featured-projects)!
 
 ## Technologies & Tools
 
@@ -15,12 +15,13 @@ I'm a software engineering student with experience in machine learning, object/t
 ![PyTorch](https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)
 ![NumPy](https://img.shields.io/static/v1?style=for-the-badge&message=NumPy&color=013243&logo=NumPy&logoColor=FFFFFF&label=)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
 
 
 ## Featured Projects
 1. **[Apex Analytic Tracking](https://github.com/happihound/Apex-Analysis-Toolset)** - A python suite that uses computer vision techniques to track various stats in apex legends.
-2. **[Apex Rotation Advice](https://github.com/happihound/apex-rotation-advice)** - My most complete and clean project yet. It uses an innovative algorithm to compute a fast path between nodes.
+2. **[Apex Rotation Advice](https://github.com/happihound/apex-rotation-advice)** - Software to compute a fast, safe, path between points of interest on a map.
 3. **[CVsudokuSolver](https://github.com/happihound/CVsudokuSolver)** - Fun weekend project that reads a sudoku puzzle from the user's webcam and uses ocr to solve the given puzzle. 
 4. **[BreakingTurtleGraphics](https://github.com/happihound/breakingTurtleGraphics)** - A python script that takes in any given image and turns it into a format that turtle graphics can draw.
 
